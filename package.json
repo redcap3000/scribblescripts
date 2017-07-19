@@ -1,0 +1,24 @@
+{
+  "name": "scribblescripts",
+  "version": "1.0.0",
+  "description": "Utility functions to assist with creating music clips with scribbletune.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redcap3000/crypto-socket.git"
+  },
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "javascript",
+    "scribbletune",
+    "music"
+  ],
+  "author": "Ronaldo Barbachano",
+  "license": "ISC",
+  "dependencies": {
+    "scribbletune": "^0.10.0",
+    "unit-test": "0.0.9"
+  }
+}
