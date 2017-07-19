@@ -1,6 +1,6 @@
 {
   "name": "scribblescripts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility functions to assist with creating music clips with scribbletune.",
   "main": "index.js",
   "repository": {
